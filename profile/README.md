@@ -1,8 +1,6 @@
 # 🐉 Kerberus
 
-Welcome to the **Kerberus** — home to our custom Minecraft modpacks, tools, and community-driven content!
-
-We specialize in creating high-quality, lore-rich modpacks like **Mythcraft**, **Dragoncraft**, and **Toothless**, blending performance, progression, and immersion.
+Welcome to the **Kerberus**
 
 ---
 
@@ -15,19 +13,14 @@ We specialize in creating high-quality, lore-rich modpacks like **Mythcraft**, *
 ## 📦 Featured Projects
 
 ### 🔹 [Mythcraft](https://github.com/Kerberus-MC/Mythcraft)
-A fantasy-tech adventure where you play as a dragon, explore magical biomes, and master both spells and machines.
 
 ### 🔸 [Dragoncraft](https://github.com/Kerberus-MC/Dragoncraft)
-A performance-heavy dragon survival pack with an emphasis on combat, evolution, and community progression.
 
 ### 🟢 [Toothless](https://github.com/Kerberus-MC/Toothless)
-Our *How to Train Your Dragon*-inspired pack focused on taming, flying, and immersive sky-island exploration.
 
 ---
 
 ## 💬 Join the Community
-
-Whether you're looking for support, want to share screenshots, or just hang out —  
 **come say hi on our [Discord](https://discord.gg/kfR6WyFSr7)!**
 
 ---
